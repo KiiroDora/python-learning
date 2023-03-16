@@ -1,0 +1,6 @@
+a = float(input("ilk sayıyı gir uwu"))
+b = float(input("ikinci sayıyı gir OwO"))
+print("toplama: ", a + b) 
+print("çıkarma: ", a - b) 
+print("bölme: ", a / b) 
+print("çarpma: ", a * b) 
